@@ -1,0 +1,10 @@
+# Core
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# Google Gemini SDKs
+# New unified SDK (recommended by Google)
+google-genai>=0.7.0
+
+# Legacy SDK (deprecated, but required by current imports / code paths)
+google-generativeai>=0.8.4
